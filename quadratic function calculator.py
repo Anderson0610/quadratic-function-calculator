@@ -23,7 +23,7 @@ if b**2-4*a*c>0:
         a=Fraction(x1)
         b=Fraction(x2)
         print('x1=',a)
-        print('x1=',b)
+        print('x2=',b)
     else:
         print('x1=',x1)
         print('x2=',x2)

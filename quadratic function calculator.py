@@ -1,6 +1,4 @@
 #quadratic function calculator
-git remote add origin git@github.com:Anderson0610/quadratic-function-calculator.git
-git push -u origin master
 import math
 from fractions import *
 
